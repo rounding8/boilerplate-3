@@ -1,0 +1,8 @@
+
+:root {
+    /*
+        Primary Color Palette
+    */
+    --boilerplate-main-color      : rgb(66, 74, 92);    /* main blue: #424a5c */
+    --boilerplate-secondary-color : rgb(43, 48, 59);    /* dark blue: #2b303b */
+}
