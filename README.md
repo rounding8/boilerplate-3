@@ -130,4 +130,5 @@ $ yarn build            # Generates Production *app* distribution index.html, bu
 
 | Version | Date     | Commit                                                                                                | Description |
 |---------|----------|-------------------------------------------------------------------------------------------------------|-------------|
+| 1.0.0   | 11-12-18 | [e43137e](https://github.com/rounding8/boilerplate-3/commit/e43137e16509f91bc8eec2278bdffbe792a59249) | Updated Boilerplate w/ Initial Application |
 | 0.0.0   | 11-12-18 | [6193f3d](https://github.com/rounding8/boilerplate-3/commit/6193f3d5db1dd1af58de0a30b552366db91dc0cb) | 🎉  Initial commit |
