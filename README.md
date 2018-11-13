@@ -1,5 +1,5 @@
 
-# Demo #3 ∞ React + webpack Application v2 🍽
+# [Demo #3 ∞ React + webpack Application v2](http://roundingeight.com/Demos/boilerplate-3) 🍽
 
 ### Server-side Web Application using React + webpack
 
